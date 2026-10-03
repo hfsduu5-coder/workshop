@@ -7,4 +7,4 @@ Workshop materials maintained as part of the **CyberIQ** technical portfolio.
 ## Developer
 **مقتدى الصدر جارالله خليف — Muqtada Al-Sadr Jarallah Khalif**  
 **الحنتوشي — Al-Hantooshi**  
-Developer • Team Leader & CEO of **CyberIQ**
+Developer • Team Leader of **CyberIQ**
